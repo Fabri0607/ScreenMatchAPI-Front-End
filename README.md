@@ -3,9 +3,6 @@
 
 # Front-end de la aplicación ScreenMatch
 
-Esta es la aplicacion Front-end que será utilizada en el curso.
-
-Fue desarrollada por [Monica Hillman](https://www.linkedin.com/in/monicamhillman/)
 
 Para visualizarla, puedes descargarla como zip o clonar el projeto, abrela con VS Code e instala la extensión *Live Server*.
 
