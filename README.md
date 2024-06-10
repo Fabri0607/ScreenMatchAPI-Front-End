@@ -1,5 +1,3 @@
-![thumbnail-Formação Java](https://github.com/genesysR-dev/2086-screenmatch-front-end/assets/91544872/2d873cba-ca9c-4567-8ce4-fb2785ef9ab4)
-
 
 # Front-end de la aplicación ScreenMatch
 
